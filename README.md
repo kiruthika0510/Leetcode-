@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiruthika0510/Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0792-binary-search](https://github.com/kiruthika0510/Leetcode-/tree/master/0792-binary-search) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/kiruthika0510/Leetcode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/kiruthika0510/Leetcode-/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
