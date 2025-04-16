@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kiruthika0510/Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/kiruthika0510/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/kiruthika0510/Leetcode-/tree/master/0792-binary-search) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/kiruthika0510/Leetcode-/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
