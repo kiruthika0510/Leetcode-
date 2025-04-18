@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kiruthika0510/Leetcode-/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/kiruthika0510/Leetcode-/tree/master/1137-height-checker) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
+| [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kiruthika0510/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/kiruthika0510/Leetcode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
+| [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/kiruthika0510/Leetcode-/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/kiruthika0510/Leetcode-/tree/master/1137-height-checker) |
+| [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
