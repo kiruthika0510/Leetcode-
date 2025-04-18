@@ -1,12 +1,12 @@
 class Solution {
     public int thirdMax(int[] nums) {
         Arrays.sort(nums);
-        int c=1;
+        int c=0;
     for(int i=nums.length-1;i>=1;i--){
         if(nums[i]!=nums[i-1]){
            c++;
         }
-        if(c==3){
+        if(c==2){
             return nums[i-1];
         }
     }
