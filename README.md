@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kiruthika0510/Leetcode-/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiruthika0510/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/kiruthika0510/Leetcode-/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kiruthika0510/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kiruthika0510/Leetcode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/kiruthika0510/Leetcode-/tree/master/1806-count-of-matches-in-tournament) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kiruthika0510/Leetcode-/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kiruthika0510/Leetcode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
