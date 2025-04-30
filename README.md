@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kiruthika0510/Leetcode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/kiruthika0510/Leetcode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kiruthika0510/Leetcode-/tree/master/2238-a-number-after-a-double-reversal) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/kiruthika0510/Leetcode-/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Simulation
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/kiruthika0510/Leetcode-/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
