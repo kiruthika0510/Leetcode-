@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kiruthika0510/Leetcode-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kiruthika0510/Leetcode-/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kiruthika0510/Leetcode-/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiruthika0510/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/kiruthika0510/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kiruthika0510/Leetcode-/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
