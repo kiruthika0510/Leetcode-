@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [2748-calculate-delayed-arrival-time](https://github.com/kiruthika0510/Leetcode-/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kiruthika0510/Leetcode-/tree/master/2812-find-the-maximum-achievable-number) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/kiruthika0510/Leetcode-/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
