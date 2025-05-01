@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kiruthika0510/Leetcode-/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [2748-calculate-delayed-arrival-time](https://github.com/kiruthika0510/Leetcode-/tree/master/2748-calculate-delayed-arrival-time) |
+| [2812-find-the-maximum-achievable-number](https://github.com/kiruthika0510/Leetcode-/tree/master/2812-find-the-maximum-achievable-number) |
 | [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
