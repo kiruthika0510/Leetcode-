@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kiruthika0510/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiruthika0510/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/kiruthika0510/Leetcode-/tree/master/0792-binary-search) |
+| [0909-stone-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0909-stone-game) |
 | [1137-height-checker](https://github.com/kiruthika0510/Leetcode-/tree/master/1137-height-checker) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kiruthika0510/Leetcode-/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiruthika0510/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0909-stone-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kiruthika0510/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kiruthika0510/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kiruthika0510/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 ## Memoization
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 ## Geometry
 |  |
