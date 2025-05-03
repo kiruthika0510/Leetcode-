@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/kiruthika0510/Leetcode-/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/kiruthika0510/Leetcode-/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/kiruthika0510/Leetcode-/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
