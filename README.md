@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kiruthika0510/Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kiruthika0510/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/kiruthika0510/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiruthika0510/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/kiruthika0510/Leetcode-/tree/master/0792-binary-search) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiruthika0510/Leetcode-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kiruthika0510/Leetcode-/tree/master/0217-contains-duplicate) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kiruthika0510/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/kiruthika0510/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiruthika0510/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/kiruthika0510/Leetcode-/tree/master/1137-height-checker) |
