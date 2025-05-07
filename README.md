@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiruthika0510/Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kiruthika0510/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kiruthika0510/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/kiruthika0510/Leetcode-/tree/master/0414-third-maximum-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kiruthika0510/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0909-stone-game](https://github.com/kiruthika0510/Leetcode-/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/kiruthika0510/Leetcode-/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
