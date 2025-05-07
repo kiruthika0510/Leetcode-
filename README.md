@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/kiruthika0510/Leetcode-/tree/master/1137-height-checker) |
+| [1603-running-sum-of-1d-array](https://github.com/kiruthika0510/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0948-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/kiruthika0510/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
