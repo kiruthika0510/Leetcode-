@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/kiruthika0510/Leetcode-/tree/master/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/kiruthika0510/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/kiruthika0510/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/kiruthika0510/Leetcode-/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/kiruthika0510/Leetcode-/tree/master/1833-find-the-highest-altitude) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kiruthika0510/Leetcode-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kiruthika0510/Leetcode-/tree/master/0217-contains-duplicate) |
+| [1635-number-of-good-pairs](https://github.com/kiruthika0510/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kiruthika0510/Leetcode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 ## Two Pointers
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/kiruthika0510/Leetcode-/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kiruthika0510/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kiruthika0510/Leetcode-/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/kiruthika0510/Leetcode-/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/kiruthika0510/Leetcode-/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kiruthika0510/Leetcode-/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/kiruthika0510/Leetcode-/tree/master/2491-smallest-even-multiple) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/kiruthika0510/Leetcode-/tree/master/1635-number-of-good-pairs) |
 ## Counting Sort
 |  |
 | ------- |
