@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/kiruthika0510/Leetcode-/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/kiruthika0510/Leetcode-/tree/master/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/kiruthika0510/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/kiruthika0510/Leetcode-/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/kiruthika0510/Leetcode-/tree/master/1833-find-the-highest-altitude) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [3321-type-of-triangle](https://github.com/kiruthika0510/Leetcode-/tree/master/3321-type-of-triangle) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kiruthika0510/Leetcode-/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/kiruthika0510/Leetcode-/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
