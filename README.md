@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kiruthika0510/Leetcode-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kiruthika0510/Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kiruthika0510/Leetcode-/tree/master/0217-contains-duplicate) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/kiruthika0510/Leetcode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kiruthika0510/Leetcode-/tree/master/2679-count-distinct-numbers-on-board) |
 ## Two Pointers
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/kiruthika0510/Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/kiruthika0510/Leetcode-/tree/master/1833-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/kiruthika0510/Leetcode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
